@@ -78,3 +78,5 @@ ENV/
 .ropeproject
 *.npy
 *.pkl
+
+!settings.json
